@@ -1,0 +1,28 @@
+build
+demo/info.txt
+demo/platforms/
+demo/plugins/
+demo/node_modules
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# Intellij & etc
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
+.idea/.gitignore
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+*.iml
+.vscode/
